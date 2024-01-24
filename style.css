@@ -1,0 +1,416 @@
+#main{
+    background-color: #252b42;
+    height: 650px;
+  }
+
+  #header{
+   width: 100%;
+    background-color: #252b42;
+    color: white;
+
+height: 45px;
+
+position: fixed;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+    
+  }
+  a:hover{
+    background-color: rgb(7, 7, 7);
+    color: white;
+    transition: 2ms;
+  }
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  #logo{
+    font-size: 30px;
+    margin-left: 80px;
+    /* padding-top: 10px; */
+    margin-right: 130px;
+  }
+  #links{
+margin-left: 65px;
+font-size: 20px;
+padding-top: 15px;
+  }
+  #links>a{
+    margin-right: 60px;
+    text-transform: capitalize;
+  }
+  #button{
+    margin-left:90px;
+    
+  }
+  button{
+    font-size: 18px;
+    width: 90px;
+    height: 40px;
+  }
+#login:hover{
+background-color: #8d9cd6;
+color: rgb(255, 255, 255);
+}
+#login{
+color: white;
+background-color: #252b42;
+}
+#join{
+background-color: rgb(16, 139, 180);
+}
+#join:hover{
+background-color: brown;
+color: white;
+content: 
+
+}
+h2{
+color: rgb(47, 168, 208);
+font-size: ;
+
+}
+
+
+#get-quot:hover{
+background-color: #252b42;
+color: white;
+}
+
+#learn-more:hover{
+background-color: #556ece;
+color: white;
+}
+#get-quot{
+width: 160px;
+background-color: rgb(55, 175, 215);
+text-transform: capitalize;
+text-align: center;
+
+color: white;
+}
+
+#learn-more{
+width: 160px;
+background-color: #252b42;
+color: white;
+text-transform: capitalize;
+text-align: center;
+
+}
+#button-header
+{
+text-align: center;
+padding-top: 20px;
+
+}
+.card{
+background-color: white;
+width: 250px;
+height: 240px;
+box-shadow: rgba(220, 193, 230, 0.161) 0px 5px 15px;
+border-radius: 20px;
+margin-left: 100px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card>img{
+width: 60px;
+padding-top:10px ;
+
+padding-left:20px ;
+
+}
+
+.card-text>h2{
+color: black;
+text-decoration: underline dotted black;
+margin: 0px;
+font-size: 28px;
+text-transform: capitalize;
+}
+.card-text{
+
+padding-top: 10px;
+text-align: center;
+color: black;
+
+
+
+}
+.card-text>p{
+padding-top: 10px;
+font-size: 20px;
+}
+
+
+
+.card{
+  background-color: white;
+  width: 250px;
+  height: 240px;
+  box-shadow: rgba(220, 193, 230, 0.161) 0px 5px 15px;
+  border-radius: 20px;
+  margin-left: 100px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .card>img{
+  width: 60px;
+  padding-top:10px ;
+  
+  padding-left:20px ;
+  
+  }
+  
+  .card-text>h2{
+  color: black;
+  text-decoration: underline dotted black;
+  margin: 0px;
+  font-size: 28px;
+  text-transform: capitalize;
+  }
+  .card-text{
+  
+  padding-top: 10px;
+  text-align: center;
+  color: black;
+  
+  
+  
+  }
+  .card-text>p{
+  padding-top: 10px;
+  font-size: 20px;
+  }
+
+  /* card two  */
+
+
+
+  .card-two{
+    background-color: white;
+    width: 250px;
+    height: 240px;
+    box-shadow: rgba(220, 193, 230, 0.161) 0px 5px 15px;
+    border-radius: 20px;
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .card-two>img{
+    width: 60px;
+    padding-top:10px ;
+    
+    padding-left:20px ;
+    
+    }
+    
+    .card-text-two>h2{
+    color: black;
+    text-decoration: underline dotted black;
+    margin: 0px;
+    font-size: 28px;
+    text-transform: capitalize;
+    }
+    .card-text-two{
+    
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+    
+    
+    
+    }
+    .card-text-two>p{
+    padding-top: 10px;
+    font-size: 20px;
+    }
+    
+    
+    
+    .card-two{
+      background-color: white;
+      width: 250px;
+      height: 240px;
+      box-shadow: rgba(220, 193, 230, 0.161) 0px 5px 15px;
+      border-radius: 20px;
+      margin-left: 100px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      .card-two>img{
+      width: 60px;
+      padding-top:10px ;
+      
+      padding-left:20px ;
+      
+      }
+      
+      .card-text-two>h2{
+      color: black;
+      text-decoration: underline dotted black;
+      margin: 0px;
+      font-size: 20px;
+      text-transform: capitalize;
+      }
+      .card-text-two{
+      
+      padding-top: 10px;
+      text-align: center;
+      color: black;
+      
+      
+      
+      }
+      .card-text-two>p{
+      padding-top: 10px;
+      font-size: 20px;
+      }
+
+
+
+
+
+      #mainline{
+ margin-left: 60px;
+
+ 
+      }
+      .line-down{
+        display: inline;
+        margin-left: 60px;
+      }
+      #be{
+        margin-left: 60px;
+        display: inline;
+      }
+      .line-down-p{
+font-family: monospace;        margin-top: 10px;
+        margin-left: 60px;
+        display: inline-block;
+      }
+
+#girl-image{
+  float: right;
+  margin-right: 200px;
+  width: 500px;
+  margin-top: 0px;
+}
+#practice-advice{
+  margin-left: 60px;
+
+}
+#practice-advice>h1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+
+
+#practice-advice>p{
+  font-size: 15px;
+}
+
+#down-practice{
+  color:#556ece;
+  
+}
+#featured-product-div{
+  text-align: center;
+}
+
+#featured-product-div>p{
+  text-align: center;
+  color: #556ece;
+  margin-top: 6px;
+}
+#search-bar{
+  text-align: center;
+  
+}
+#search-bar>input{
+  width: 500px;
+  height: 30px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  border-bottom: dotted #252b42;
+}
+#subscribe{
+background-color: #556ece;
+color: white;
+border: none;
+}
+#subscribe:hover{
+  background-color: #242b42;
+  color: white;
+  border-radius: 50px;
+
+  }
+  footer{
+    background-color: #242b42;
+    height: 250px;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+
+  #one-footer{
+    margin-left: 60px;
+    padding: 04px;
+
+  }
+  
+  #one-footer>h2{
+    margin-left: 60px;
+    color: white;
+    margin-top: 60px;
+    font-family: monospace;
+  }
+
+  #one-footer>p{
+margin-left: 60px;
+color: white;
+font-family: monospace;
+margin-top: 6px;
+
+  }
+
+
+  .fa-facebook{
+    color: #556ece;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  .fa-instagram{
+    color: #556ece;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  .fa-twitter{
+    color: #556ece;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+  }
+
+  .two-footer{
+    margin-top: 95px;
+  }
+   .two-footer>h2{
+    margin-bottom: 5px;
+    margin-left: 120px;
+    color: #6b85ef;
+    font-family: monospace;
+  color: white;
+   }
+   
+   .two-footer>p{
+    margin-left: 120px;
+    color: #ffffff;
+    font-family: 
+    monospace;
+    margin-bottom: 10px;
+  
+   }
